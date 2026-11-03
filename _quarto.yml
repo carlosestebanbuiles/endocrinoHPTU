@@ -38,7 +38,7 @@ website:
         aria-label: Correo
   page-footer:
     left: "Rotación de Endocrinología · Hospital Pablo Tobón Uribe"
-    right: "Contacto: [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co)"
+    right: "Contacto: [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co) · WhatsApp: **@cebuiles**"
 
 format:
   html:

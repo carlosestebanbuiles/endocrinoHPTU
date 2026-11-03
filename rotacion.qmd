@@ -39,3 +39,5 @@ Cargando la distribución…
 ## Contacto
 
 <i class="bi bi-envelope"></i> [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co)
+
+<i class="bi bi-whatsapp"></i> **@cebuiles** · búscalo en WhatsApp como nombre de usuario (no es un número de teléfono).
