@@ -33,12 +33,15 @@ website:
       - href: recursos.qmd
         text: Recursos
     right:
+      - icon: whatsapp
+        href: "https://wa.me/cebuiles"
+        aria-label: WhatsApp
       - icon: envelope
         href: "mailto:cbuiles@hptu.org.co"
         aria-label: Correo
   page-footer:
     left: "Rotación de Endocrinología · Hospital Pablo Tobón Uribe"
-    right: "Contacto: [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co) · WhatsApp: **@cebuiles**"
+    right: "Contacto: [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co) · WhatsApp: [@cebuiles](https://wa.me/cebuiles)"
 
 format:
   html:

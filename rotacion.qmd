@@ -40,4 +40,6 @@ Cargando la distribución…
 
 <i class="bi bi-envelope"></i> [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co)
 
-<i class="bi bi-whatsapp"></i> **@cebuiles** · búscalo en WhatsApp como nombre de usuario (no es un número de teléfono).
+[<i class="bi bi-whatsapp"></i> Escribir por WhatsApp a @cebuiles](https://wa.me/cebuiles){.btn .btn-success .btn-sm}
+
+<small class="opacity-75">Si el enlace no abre el chat, busca **@cebuiles** en WhatsApp: Nuevo chat → escribe el nombre de usuario. Es un nombre de usuario, no un número de teléfono.</small>
