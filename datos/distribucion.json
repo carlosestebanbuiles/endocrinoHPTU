@@ -1,0 +1,122 @@
+{
+  "mes": "Noviembre 2026",
+  "nota": "Lunes 2 y lunes 16 de noviembre son festivos. La Dra. Carolina Prieto está en vacaciones y regresa el lunes 30. Josué Ventura (pasantía) acompaña como segundo.",
+  "docentes": [
+    "Clara Arango",
+    "Carlos Builes",
+    "Carolina Prieto"
+  ],
+  "residentes": [
+    {
+      "nombre": "Andrés Mejía",
+      "programa": "Medicina Interna · R3"
+    },
+    {
+      "nombre": "Santiago Padierna",
+      "programa": "Endocrinología · R1"
+    },
+    {
+      "nombre": "Josué Ventura",
+      "programa": "Endocrinología · pasantía R3 (segundo)"
+    }
+  ],
+  "semanas": [
+    {
+      "etiqueta": "3 al 6 nov",
+      "inicio": "2026-11-02",
+      "fin": "2026-11-08",
+      "asignacion": {
+        "Clara Arango": [
+          "Andrés Mejía"
+        ],
+        "Carlos Builes": [
+          "Santiago Padierna",
+          "Josué Ventura"
+        ]
+      }
+    },
+    {
+      "etiqueta": "9 al 13 nov",
+      "inicio": "2026-11-09",
+      "fin": "2026-11-15",
+      "asignacion": {
+        "Clara Arango": [
+          "Santiago Padierna"
+        ],
+        "Carlos Builes": [
+          "Andrés Mejía",
+          "Josué Ventura"
+        ]
+      }
+    },
+    {
+      "etiqueta": "17 al 20 nov",
+      "inicio": "2026-11-16",
+      "fin": "2026-11-22",
+      "asignacion": {
+        "Clara Arango": [
+          "Andrés Mejía",
+          "Josué Ventura"
+        ],
+        "Carlos Builes": [
+          "Santiago Padierna"
+        ]
+      }
+    },
+    {
+      "etiqueta": "23 al 27 nov",
+      "inicio": "2026-11-23",
+      "fin": "2026-11-29",
+      "asignacion": {
+        "Clara Arango": [
+          "Santiago Padierna",
+          "Josué Ventura"
+        ],
+        "Carlos Builes": [
+          "Andrés Mejía"
+        ]
+      }
+    },
+    {
+      "etiqueta": "30 nov",
+      "inicio": "2026-11-30",
+      "fin": "2026-11-30",
+      "asignacion": {
+        "Clara Arango": [
+          "Andrés Mejía"
+        ],
+        "Carlos Builes": [
+          "Santiago Padierna"
+        ],
+        "Carolina Prieto": [
+          "Josué Ventura"
+        ]
+      },
+      "dias": [
+        "Lunes"
+      ]
+    }
+  ],
+  "vacaciones": [
+    {
+      "docente": "Carolina Prieto",
+      "semanas": [
+        "3 al 6 nov",
+        "9 al 13 nov",
+        "17 al 20 nov",
+        "23 al 27 nov"
+      ]
+    }
+  ],
+  "reglas": {
+    "Lunes": {
+      "docente": "Clara Arango",
+      "texto": "Todos los residentes con la Dra. Clara Arango"
+    },
+    "Viernes": {
+      "docente": "Carlos Builes",
+      "texto": "Todos los residentes con el Dr. Carlos Builes (reemplaza a la Dra. Prieto)",
+      "horas": "7:00 a. m. – 5:00 p. m."
+    }
+  }
+}

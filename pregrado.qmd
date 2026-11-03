@@ -1,0 +1,82 @@
+---
+title: "Pregrado"
+subtitle: "Endocrinología 2 · Universidad de Antioquia"
+---
+
+## Antes de empezar
+
+::: {.callout-important}
+## Requisitos para permanecer en la rotación
+Cumplir los requisitos del hospital, llevar el **carné visible**, **uniforme azul** y **bata**. Si no se cumple alguno, no se puede permanecer en la rotación.
+:::
+
+Las actividades son presenciales en el Hospital Pablo Tobón Uribe durante **5 semanas** con el docente asignado. Contacta a tu docente para definir el punto de encuentro.
+
+## Docentes
+
+| Docente | Organización |
+|---|---|
+| Dr. Carlos E. Builes-Montaño | Jueves de 12:00 a 14:00. Dos veces al mes hay club de revistas y ese día las actividades empiezan a las 11:00. |
+| Dra. Clara María Arango | Coordina con ella tus actividades, incluida la asistencia al club de revistas. |
+
+: {.striped}
+
+## Cronograma y bibliografía
+
+::: {.week-card}
+#### Semana 1 · Enfermedades tiroideas frecuentes en la consulta
+<span class="badge text-bg-primary">Lecturas</span>
+[JAMA](https://jamanetwork.com/journals/jama/article-abstract/2810692) ·
+[Nature Reviews Endocrinology](https://www.nature.com/articles/s41574-024-01025-4) ·
+[JAMA](https://jamanetwork.com/journals/jama/article-abstract/2838457)
+:::
+
+::: {.week-card}
+#### Semana 2 · Tratamiento de la diabetes mellitus tipo 2 sin insulina en adultos
+<span class="badge text-bg-primary">Lecturas</span>
+[Endocrine Practice](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) ·
+[ADA Standards of Care, cap. 2: Diagnóstico y clasificación](https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes) ·
+[ADA Standards of Care, cap. 9: Tratamiento farmacológico](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment)
+
+<small>Excluir la sección de tratamiento con insulina.</small>
+:::
+
+::: {.week-card}
+#### Semana 3 · Tratamiento de la diabetes mellitus tipo 2 con insulina
+<span class="badge text-bg-primary">Lecturas</span>
+[Endocrine Practice](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) ·
+[ADA Standards of Care, cap. 9](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment)
+
+<small>Solo las secciones sobre insulina.</small>
+:::
+
+::: {.week-card}
+#### Semana 4 · Hipertensión arterial relacionada con enfermedades endocrinas
+<span class="badge text-bg-primary">Lecturas</span>
+[Hypertension Research](https://www.nature.com/articles/s41440-023-01461-1)
+:::
+
+::: {.week-card}
+#### Semana 5 · Osteoporosis
+<span class="badge text-bg-primary">Lecturas</span>
+[Endocrine Reviews](https://academic.oup.com/edrv/article/47/4/468/8498994) ·
+[II Consenso colombiano para el manejo de la osteoporosis (Rev Colomb Reumatol)](https://www.elsevier.es/es-revista-revista-colombiana-reumatologia-374-articulo-ii-consenso-colombiano-el-manejo-S012181231830032X)
+:::
+
+## Calificación
+
+| Componente | Peso |
+|---|---:|
+| Evaluación escrita | 60 % |
+| Participación en las actividades | 25 % |
+| Participación en el club de revistas (solo quienes deben asistir) | 15 % |
+
+: {.striped}
+
+La nota final la consolida el Dr. Alejandro Román.
+
+## Evaluación docente
+
+Al terminar, califica a tus profesores en este formulario:
+
+[Evaluar a los docentes](https://forms.gle/tVLpUHrqTUTqyBvu7){.btn .btn-primary}

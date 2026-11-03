@@ -1,0 +1,25 @@
+# Sesiones del club de revistas.
+# Para agregar una sesión, copia un bloque, cambia los datos y guarda.
+# El sitio marca automáticamente la próxima sesión y deja las pasadas en el histórico.
+#
+#   - title: "Título corto o nombre del estudio"
+#     date: 2026-11-12          # AAAA-MM-DD
+#     hora: "11:00 a. m."
+#     articulo: https://...     # enlace al artículo
+#     aula: "Ernesto Bravo, piso 8, torre B"   # o "Virtual"
+#     enlace-virtual: https://...              # opcional
+#     nota: "Revisar el material suplementario del artículo."
+
+- title: "Sesión 2"
+  date: 2026-10-29
+  hora: "11:00 a. m."
+  articulo: https://www.nejm.org/doi/abs/10.1056/NEJMoa2607219
+  aula: "Ernesto Bravo, piso 8, torre B"
+  nota: "Revisar el material suplementario del artículo."
+
+- title: "Sesión 1"
+  date: 2026-10-15
+  hora: "11:00 a. m."
+  articulo: https://www.nejm.org/doi/10.1056/NEJMoa2604169
+  aula: "Ernesto Bravo, piso 8, torre B"
+  nota: "Revisar el material suplementario del artículo."

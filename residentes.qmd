@@ -1,0 +1,45 @@
+---
+title: "Residentes"
+subtitle: "Lo que corresponde a cada especialidad durante la rotación"
+---
+
+Todos los residentes siguen la [organización y el horario de la rotación](rotacion.qmd). Abajo están las responsabilidades y los temas propios de cada especialidad.
+
+::: {.panel-tabset}
+
+## Endocrinología
+
+Responsabilidades de los residentes más avanzados de la rotación:
+
+1. Conocer a todos los pacientes hospitalizados por el servicio, estén o no asignados a la ronda.
+2. Reservar salones para las actividades académicas, o ayudar a sus compañeros a hacerlo.
+3. Acompañar a los demás residentes en su aprendizaje.
+
+## Medicina Interna
+
+- La rotación se hace junto con el Hospital San Vicente Fundación y el profesor Johnayro Gutiérrez.
+- Durante la estancia en el Hospital Pablo Tobón Uribe deben programar los seminarios de la lista. Los asignados al profesor Gutiérrez se programan junto con el compañero que está en el San Vicente Fundación.
+
+[Lista de seminarios](https://bit.ly/2PjhLKQ){.btn .btn-primary .btn-sm}
+[Bibliografía sugerida](https://docs.google.com/document/d/e/2PACX-1vSGNx9TnjGvvKHjXCr4H8IABDSPsdlCmVzgFYDVkiyOKVCAKwCJJcrhLb9DCjPPQEEzXvgTpl2Jpnsc/pub){.btn .btn-outline-primary .btn-sm}
+
+## Medicina de Urgencias
+
+Además de las actividades programadas, deben revisar estos temas:
+
+1. Trastornos del metabolismo del calcio (hipercalcemia e hipocalcemia)
+2. Hipoglucemia en el paciente sin diabetes mellitus
+3. Crisis adrenales
+4. Emergencias tiroideas (tormenta tiroidea y coma mixedematoso)
+5. Crisis hiperglucémicas
+
+## Psiquiatría
+
+Además de las actividades programadas, deben revisar estos temas:
+
+1. Hiperprolactinemia asociada al tratamiento con psicofármacos
+2. Relación entre hipotiroidismo subclínico y depresión
+3. Aproximación interdisciplinaria al paciente adulto con disforia de género
+4. Alteraciones metabólicas asociadas al uso de antipsicóticos
+
+:::

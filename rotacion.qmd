@@ -1,0 +1,41 @@
+---
+title: "La rotación"
+subtitle: "Organización, horario y actividades"
+---
+
+## Organización
+
+- Cada semana, los residentes se asignan a un docente diferente y lo acompañan en la consulta externa y en la ronda.
+- El residente de Endocrinología distribuye los pacientes de la ronda entre los docentes, reserva los salones y coordina la asistencia a las actividades asistenciales y académicas.
+
+## Horario
+
+::: {.callout-note appearance="simple"}
+## De lunes a viernes, de 7:00 a. m. a 5:00 p. m.
+Este horario aplica sin importar el horario de consulta del docente. Los **lunes**, todos los residentes están con la **Dra. Clara Arango**, y los **viernes**, con la **Dra. Carolina Prieto** (o quien la reemplace ese mes).
+:::
+
+## Actividades académicas
+
+| Día | Hora | Actividad | Modalidad |
+|---|---|---|---|
+| Lunes | 7:00–8:00 | Reunión de la Sección de Endocrinología (UdeA) | Virtual |
+| Martes | 7:00–8:00 | Reunión de la Sección de Endocrinología (UdeA) | Virtual |
+| Jueves | 10:00–11:00 | Ronda conjunta | Presencial |
+| Jueves (2 por mes) | 11:00 | [Club de revistas](club.qmd) | Virtual o presencial |
+
+: {.striped .hover}
+
+Los temas y los enlaces de las reuniones de lunes y martes se piden a los residentes o a los compañeros del Hospital San Vicente Fundación.
+
+## Distribución con docentes {#distribucion}
+
+Cada semana, cada residente acompaña a un docente distinto en su consulta y en la ronda.
+
+::: {#distribucion-app}
+Cargando la distribución…
+:::
+
+## Contacto
+
+<i class="bi bi-envelope"></i> [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co)

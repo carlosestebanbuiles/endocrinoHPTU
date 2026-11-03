@@ -1,0 +1,15 @@
+<div class="sessions-list">
+<% for (const item of items) { %>
+<div class="session" data-date="<%= item.date %>">
+<div class="d-flex flex-wrap justify-content-between align-items-baseline gap-2">
+<div class="session-date"><i class="bi bi-calendar-event"></i> <span class="fecha"><%= item.date %></span><% if (item.hora) { %> · <%= item.hora %><% } %></div>
+<span class="badge estado"></span>
+</div>
+<div class="fw-semibold mt-1"><%= item.title %></div>
+<% if (item.articulo) { %><div class="mt-1"><i class="bi bi-journal-text"></i> <a href="<%= item.articulo %>" target="_blank" rel="noopener">Artículo</a></div><% } %>
+<% if (item.aula) { %><div><i class="bi bi-geo-alt"></i> <%= item.aula %></div><% } %>
+<% if (item['enlace-virtual']) { %><div><i class="bi bi-camera-video"></i> <a href="<%= item['enlace-virtual'] %>" target="_blank" rel="noopener">Enlace virtual</a></div><% } %>
+<% if (item.nota) { %><div class="small mt-1 opacity-75"><i class="bi bi-info-circle"></i> <%= item.nota %></div><% } %>
+</div>
+<% } %>
+</div>

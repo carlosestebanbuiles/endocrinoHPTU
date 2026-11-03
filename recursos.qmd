@@ -1,0 +1,39 @@
+---
+title: "Recursos"
+toc: false
+---
+
+```{=html}
+<div class="card-grid">
+<a class="tile" href="https://www.healio.com/news/endocrinology">
+<div class="tile-icon"><i class="bi bi-newspaper"></i></div>
+<div class="tile-title">Healio</div>
+<div class="tile-text">Noticias en endocrinología</div>
+</a>
+<a class="tile" href="https://www.methodsman.com/">
+<div class="tile-icon"><i class="bi bi-graph-up"></i></div>
+<div class="tile-title">The Methods Man</div>
+<div class="tile-text">Comentarios en epidemiología</div>
+</a>
+<a class="tile" href="https://sciencebasedmedicine.org/">
+<div class="tile-icon"><i class="bi bi-clipboard2-pulse"></i></div>
+<div class="tile-title">Science-Based Medicine</div>
+<div class="tile-text">Medicina basada en la ciencia</div>
+</a>
+<a class="tile" href="https://www.endocrino.org.co/">
+<div class="tile-icon"><i class="bi bi-people"></i></div>
+<div class="tile-title">Asociación Colombiana de Endocrinología</div>
+<div class="tile-text">ACE</div>
+</a>
+<a class="tile" href="https://www.hptu.org.co/endocrinolog%C3%ADa.html">
+<div class="tile-icon"><i class="bi bi-hospital"></i></div>
+<div class="tile-title">Endocrinología HPTU</div>
+<div class="tile-text">Página del servicio en el hospital</div>
+</a>
+<a class="tile" href="https://www.hptu.org.co/%C2%BFc%C3%B3mo-llego-al-hospital-pablo-tob%C3%B3n-uribe.html">
+<div class="tile-icon"><i class="bi bi-geo-alt"></i></div>
+<div class="tile-title">¿Cómo llego al hospital?</div>
+<div class="tile-text">Indicaciones para llegar al Hospital Pablo Tobón Uribe</div>
+</a>
+</div>
+```

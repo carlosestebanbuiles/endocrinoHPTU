@@ -1,0 +1,21 @@
+---
+title: "Club de revistas"
+subtitle: "Jueves, 11:00 a. m. · virtual o presencial"
+listing:
+  id: sesiones
+  contents: club/sesiones.yml
+  template: club/sesiones.ejs
+  date-format: "YYYY-MM-DD"
+---
+
+Durante el curso deben participar en el club de revistas, que se hace los jueves a las 11:00 a. m. y puede ser virtual o presencial.
+
+::: {.callout-tip}
+## Cómo prepararse
+Resuelvan la **guía JAMA** que corresponde al tipo de artículo. Aquí se publican con regularidad los enlaces para participar y los artículos que se van a discutir. **Esta actividad es calificable.**
+:::
+
+## Programación
+
+::: {#sesiones}
+:::

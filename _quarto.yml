@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/sesiones.js
+    - assets/distribucion.js
+    - datos/*.json
+
+lang: es
+
+website:
+  title: "Endocrino HPTU"
+  description: "Rotación de Endocrinología · Hospital Pablo Tobón Uribe"
+  search: true
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: rotacion.qmd
+        text: La rotación
+      - href: residentes.qmd
+        text: Residentes
+      - href: pregrado.qmd
+        text: Pregrado
+      - href: club.qmd
+        text: Club de revistas
+      - href: recursos.qmd
+        text: Recursos
+    right:
+      - icon: envelope
+        href: "mailto:cbuiles@hptu.org.co"
+        aria-label: Correo
+  page-footer:
+    left: "Rotación de Endocrinología · Hospital Pablo Tobón Uribe"
+    right: "Contacto: [cbuiles@hptu.org.co](mailto:cbuiles@hptu.org.co)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/custom.scss]
+      dark: [darkly, styles/custom.scss, styles/dark.scss]
+    toc: true
+    toc-title: "En esta página"
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    include-after-body: assets/scripts.html

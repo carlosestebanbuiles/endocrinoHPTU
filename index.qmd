@@ -1,0 +1,76 @@
+---
+pagetitle: "Inicio · Endocrino HPTU"
+toc: false
+page-layout: full
+listing:
+  id: club-home
+  contents: club/sesiones.yml
+  template: club/sesiones.ejs
+  date-format: "YYYY-MM-DD"
+---
+
+::: {.hero}
+# Rotación de Endocrinología
+Hospital Pablo Tobón Uribe
+
+Aquí está la información de la rotación en el servicio de Endocrinología, además de recursos sobre noticias de endocrinología y métodos de investigación científica.
+:::
+
+## ¿Quién eres?
+
+```{=html}
+<div class="card-grid">
+<a class="tile" href="pregrado.html">
+<div class="tile-icon"><i class="bi bi-mortarboard"></i></div>
+<div class="tile-title">Pregrado</div>
+<div class="tile-text">Endocrinología 2 (UdeA): cronograma de 5 semanas, bibliografía y calificación.</div>
+</a>
+<a class="tile" href="residentes.html">
+<div class="tile-icon"><i class="bi bi-person-badge"></i></div>
+<div class="tile-title">Residentes</div>
+<div class="tile-text">Endocrinología, Medicina Interna, Medicina de Urgencias y Psiquiatría.</div>
+</a>
+<a class="tile" href="rotacion.html">
+<div class="tile-icon"><i class="bi bi-calendar-week"></i></div>
+<div class="tile-title">La rotación</div>
+<div class="tile-text">Organización, horario semanal y distribución con docentes.</div>
+</a>
+<a class="tile" href="club.html">
+<div class="tile-icon"><i class="bi bi-journal-medical"></i></div>
+<div class="tile-title">Club de revistas</div>
+<div class="tile-text">Programación de sesiones, artículos y aulas.</div>
+</a>
+</div>
+```
+
+## Distribución con docentes
+
+::: {#esta-semana .next-session}
+Cargando…
+:::
+
+## Próxima sesión del club de revistas
+
+::: {#proxima-sesion .next-session}
+Cargando…
+:::
+
+::::: {.d-none}
+::: {#club-home}
+:::
+:::::
+
+## Semana típica
+
+| Día | Hora | Actividad |
+|---|---|---|
+| Lunes | 7:00–8:00 | Reunión virtual de la Sección de Endocrinología (UdeA) |
+| Lunes | Consulta | Todos los residentes con la Dra. Clara Arango |
+| Martes | 7:00–8:00 | Reunión virtual de la Sección de Endocrinología (UdeA) |
+| Jueves | 10:00–11:00 | Ronda conjunta |
+| Jueves (2 por mes) | 11:00 | Club de revistas |
+| Viernes | 7:00–17:00 | Todos los residentes con la Dra. Carolina Prieto (o su reemplazo) |
+
+: {.striped .hover}
+
+[Ver el detalle de la rotación →](rotacion.qmd)
