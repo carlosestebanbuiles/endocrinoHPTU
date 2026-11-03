@@ -26,13 +26,13 @@ Las actividades son presenciales en el Hospital Pablo Tobón Uribe durante **5 s
 ::: {.week-card}
 #### Semana 1 · Enfermedades tiroideas frecuentes en la consulta
 <div class="reading"><i class="bi bi-file-earmark-text"></i> [Hyperthyroidism: A Review](https://jamanetwork.com/journals/jama/article-abstract/2810692) <span class="journal">· JAMA, 2023</span></div>
-<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.nature.com/articles/s41574-024-01025-4) <span class="journal">· Nature Reviews Endocrinology, 2024</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Thyroid nodules: diagnosis and management](https://www.nature.com/articles/s41574-024-01025-4) <span class="journal">· Nature Reviews Endocrinology, 2024</span></div>
 <div class="reading"><i class="bi bi-file-earmark-text"></i> [Hypothyroidism: A Review](https://jamanetwork.com/journals/jama/article-abstract/2838457) <span class="journal">· JAMA, 2025</span></div>
 :::
 
 ::: {.week-card}
 #### Semana 2 · Tratamiento de la diabetes mellitus tipo 2 sin insulina en adultos
-<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [American Association of Clinical Endocrinology Consensus Statement: Algorithm for Management of Adults With Type 2 Diabetes – 2026 Update](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
 <div class="reading"><i class="bi bi-file-earmark-text"></i> [2. Diagnosis and Classification of Diabetes](https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes) <span class="journal">· ADA Standards of Care 2026</span></div>
 <div class="reading"><i class="bi bi-file-earmark-text"></i> [9. Pharmacologic Approaches to Glycemic Treatment](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment) <span class="journal">· ADA Standards of Care 2026</span></div>
 
@@ -41,7 +41,7 @@ Las actividades son presenciales en el Hospital Pablo Tobón Uribe durante **5 s
 
 ::: {.week-card}
 #### Semana 3 · Tratamiento de la diabetes mellitus tipo 2 con insulina
-<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [American Association of Clinical Endocrinology Consensus Statement: Algorithm for Management of Adults With Type 2 Diabetes – 2026 Update](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
 <div class="reading"><i class="bi bi-file-earmark-text"></i> [9. Pharmacologic Approaches to Glycemic Treatment](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment) <span class="journal">· ADA Standards of Care 2026</span></div>
 
 <small>Solo las secciones sobre insulina.</small>

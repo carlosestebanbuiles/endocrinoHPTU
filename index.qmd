@@ -59,7 +59,7 @@ Hospital Pablo Tobón Uribe · información de la rotación, recursos de endocri
 </div>
 ```
 
-## Semana típica
+## Actividades fijas de la semana
 
 | Día | Hora | Actividad |
 |---|---|---|
