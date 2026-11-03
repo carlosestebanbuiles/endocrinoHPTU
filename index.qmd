@@ -11,12 +11,28 @@ listing:
 
 ::: {.hero}
 # Rotación de Endocrinología
-Hospital Pablo Tobón Uribe
-
-Aquí está la información de la rotación en el servicio de Endocrinología, además de recursos sobre noticias de endocrinología y métodos de investigación científica.
+Hospital Pablo Tobón Uribe · información de la rotación, recursos de endocrinología y métodos de investigación.
 :::
 
-## ¿Quién eres?
+```{=html}
+<div class="home-grid">
+  <section>
+    <h2><i class="bi bi-people"></i> Distribución con docentes</h2>
+    <div id="esta-semana" class="next-session">Cargando…</div>
+  </section>
+  <section>
+    <h2><i class="bi bi-journal-medical"></i> Próxima sesión del club de revistas</h2>
+    <div id="proxima-sesion" class="next-session">Cargando…</div>
+  </section>
+</div>
+```
+
+::::: {.d-none}
+::: {#club-home}
+:::
+:::::
+
+## ¿Qué buscas?
 
 ```{=html}
 <div class="card-grid">
@@ -33,32 +49,15 @@ Aquí está la información de la rotación en el servicio de Endocrinología, a
 <a class="tile" href="rotacion.html">
 <div class="tile-icon"><i class="bi bi-calendar-week"></i></div>
 <div class="tile-title">La rotación</div>
-<div class="tile-text">Organización, horario semanal y distribución con docentes.</div>
+<div class="tile-text">Organización, horarios y distribución del mes con buscador por nombre.</div>
 </a>
 <a class="tile" href="club.html">
 <div class="tile-icon"><i class="bi bi-journal-medical"></i></div>
 <div class="tile-title">Club de revistas</div>
-<div class="tile-text">Programación de sesiones, artículos y aulas.</div>
+<div class="tile-text">Sesiones, artículos, aulas y guías JAMA de lectura crítica.</div>
 </a>
 </div>
 ```
-
-## Distribución con docentes
-
-::: {#esta-semana .next-session}
-Cargando…
-:::
-
-## Próxima sesión del club de revistas
-
-::: {#proxima-sesion .next-session}
-Cargando…
-:::
-
-::::: {.d-none}
-::: {#club-home}
-:::
-:::::
 
 ## Semana típica
 

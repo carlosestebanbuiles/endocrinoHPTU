@@ -7,7 +7,7 @@ subtitle: "Endocrinología 2 · Universidad de Antioquia"
 
 ::: {.callout-important}
 ## Requisitos para permanecer en la rotación
-Cumplir los requisitos del hospital, llevar el **carné visible**, **uniforme azul** y **bata**. Si no se cumple alguno, no se puede permanecer en la rotación.
+Cumplir los requisitos del hospital, llevar el **carné visible** y el **uniforme azul**. Si no se cumple alguno, no se puede permanecer en la rotación.
 :::
 
 Las actividades son presenciales en el Hospital Pablo Tobón Uribe durante **5 semanas** con el docente asignado. Contacta a tu docente para definir el punto de encuentro.
@@ -25,42 +25,37 @@ Las actividades son presenciales en el Hospital Pablo Tobón Uribe durante **5 s
 
 ::: {.week-card}
 #### Semana 1 · Enfermedades tiroideas frecuentes en la consulta
-<span class="badge text-bg-primary">Lecturas</span>
-[JAMA](https://jamanetwork.com/journals/jama/article-abstract/2810692) ·
-[Nature Reviews Endocrinology](https://www.nature.com/articles/s41574-024-01025-4) ·
-[JAMA](https://jamanetwork.com/journals/jama/article-abstract/2838457)
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Hyperthyroidism: A Review](https://jamanetwork.com/journals/jama/article-abstract/2810692) <span class="journal">· JAMA, 2023</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.nature.com/articles/s41574-024-01025-4) <span class="journal">· Nature Reviews Endocrinology, 2024</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Hypothyroidism: A Review](https://jamanetwork.com/journals/jama/article-abstract/2838457) <span class="journal">· JAMA, 2025</span></div>
 :::
 
 ::: {.week-card}
 #### Semana 2 · Tratamiento de la diabetes mellitus tipo 2 sin insulina en adultos
-<span class="badge text-bg-primary">Lecturas</span>
-[Endocrine Practice](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) ·
-[ADA Standards of Care, cap. 2: Diagnóstico y clasificación](https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes) ·
-[ADA Standards of Care, cap. 9: Tratamiento farmacológico](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment)
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [2. Diagnosis and Classification of Diabetes](https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes) <span class="journal">· ADA Standards of Care 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [9. Pharmacologic Approaches to Glycemic Treatment](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment) <span class="journal">· ADA Standards of Care 2026</span></div>
 
 <small>Excluir la sección de tratamiento con insulina.</small>
 :::
 
 ::: {.week-card}
 #### Semana 3 · Tratamiento de la diabetes mellitus tipo 2 con insulina
-<span class="badge text-bg-primary">Lecturas</span>
-[Endocrine Practice](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) ·
-[ADA Standards of Care, cap. 9](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment)
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Artículo de revisión](https://www.endocrinepractice.org/article/S1530-891X(26)00022-4/fulltext) <span class="journal">· Endocrine Practice, 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [9. Pharmacologic Approaches to Glycemic Treatment](https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment) <span class="journal">· ADA Standards of Care 2026</span></div>
 
 <small>Solo las secciones sobre insulina.</small>
 :::
 
 ::: {.week-card}
 #### Semana 4 · Hipertensión arterial relacionada con enfermedades endocrinas
-<span class="badge text-bg-primary">Lecturas</span>
-[Hypertension Research](https://www.nature.com/articles/s41440-023-01461-1)
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Endocrine causes of hypertension: literature review and practical approach](https://www.nature.com/articles/s41440-023-01461-1) <span class="journal">· Hypertension Research, 2023</span></div>
 :::
 
 ::: {.week-card}
 #### Semana 5 · Osteoporosis
-<span class="badge text-bg-primary">Lecturas</span>
-[Endocrine Reviews](https://academic.oup.com/edrv/article/47/4/468/8498994) ·
-[II Consenso colombiano para el manejo de la osteoporosis (Rev Colomb Reumatol)](https://www.elsevier.es/es-revista-revista-colombiana-reumatologia-374-articulo-ii-consenso-colombiano-el-manejo-S012181231830032X)
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [Management of postmenopausal osteoporosis](https://academic.oup.com/edrv/article/47/4/468/8498994) <span class="journal">· Endocrine Reviews, 2026</span></div>
+<div class="reading"><i class="bi bi-file-earmark-text"></i> [II Consenso colombiano para el manejo de la osteoporosis](https://www.elsevier.es/es-revista-revista-colombiana-reumatologia-374-articulo-ii-consenso-colombiano-el-manejo-S012181231830032X) <span class="journal">· Revista Colombiana de Reumatología</span></div>
 :::
 
 ## Calificación

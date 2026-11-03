@@ -1,8 +1,10 @@
 /*-- scss:defaults --*/
 $primary: #5fb3e6;
-$navbar-bg: #0b3d5e;
+$navbar-bg: #ffffff;
+$navbar-fg: #246aa9;
 
 /*-- scss:rules --*/
+.navbar .navbar-nav .nav-link { color: #246aa9 !important; }
 .tile { border-color: rgba(255,255,255,.12); background: rgba(255,255,255,.03); }
 .session { border-color: rgba(255,255,255,.12); }
 .embed-frame { border-color: rgba(255,255,255,.15); background: #fff; }

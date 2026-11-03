@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - assets/sesiones.js
+    - assets/*.png
     - assets/distribucion.js
     - datos/*.json
 
@@ -10,10 +11,14 @@ lang: es
 
 website:
   title: "Endocrino HPTU"
+  favicon: assets/icono-hptu.png
   description: "Rotación de Endocrinología · Hospital Pablo Tobón Uribe"
   search: true
   page-navigation: true
   navbar:
+    logo: assets/logo-hptu.png
+    logo-alt: "Hospital Pablo Tobón Uribe"
+    title: "Endocrinología"
     left:
       - href: index.qmd
         text: Inicio

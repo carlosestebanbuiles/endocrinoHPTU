@@ -1,21 +1,24 @@
 /*-- scss:defaults --*/
-$primary: #0b5c8f;
-$secondary: #2a9d8f;
+$primary: #246aa9;
+$secondary: #7fa83a;
+$hptu-green: #9ec650;
 $font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-$navbar-bg: #0b5c8f;
+$navbar-bg: #ffffff;
+$navbar-fg: #246aa9;
+$navbar-hl: #7fa83a;
 $border-radius: .6rem;
 
 /*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 .hero {
-  background: linear-gradient(135deg, #0b5c8f 0%, #2a9d8f 100%);
+  background: linear-gradient(120deg, #246aa9 0%, #2f7fbf 55%, #9ec650 140%);
   color: #fff;
   border-radius: 1rem;
-  padding: 2.5rem 2rem;
-  margin-bottom: 2rem;
-  h1 { color: #fff; font-weight: 700; margin: 0 0 .25rem 0; border: none; }
-  p { margin: 0; opacity: .92; font-size: 1.1rem; }
+  padding: 1.4rem 1.6rem;
+  margin: .5rem 0 1.5rem;
+  h1 { color: #fff; font-weight: 700; font-size: 1.7rem; margin: 0; border: none; }
+  p { margin: .2rem 0 0; opacity: .92; }
 }
 
 .card-grid {
@@ -32,7 +35,7 @@ $border-radius: .6rem;
   padding: 1.2rem 1.2rem 1rem;
   text-decoration: none !important;
   color: inherit !important;
-  background: rgba(11,92,143,.03);
+  background: rgba(36,106,169,.03);
   transition: transform .12s ease, box-shadow .12s ease;
   .tile-icon { font-size: 1.6rem; color: $primary; }
   .tile-title { font-weight: 600; font-size: 1.1rem; margin: .4rem 0 .2rem; }
@@ -44,7 +47,7 @@ $border-radius: .6rem;
   border-left: 4px solid $secondary;
   padding: .8rem 1rem;
   margin: 1rem 0;
-  background: rgba(42,157,143,.05);
+  background: rgba(158,198,80,.05);
   border-radius: 0 .6rem .6rem 0;
   h4 { margin-top: 0; }
   .badge { margin-right: .4rem; }
@@ -56,7 +59,7 @@ $border-radius: .6rem;
   padding: 1rem 1.2rem;
   margin: .8rem 0;
   .session-date { font-weight: 600; color: $primary; }
-  &.upcoming { border: 2px solid $secondary; background: rgba(42,157,143,.06); }
+  &.upcoming { border: 2px solid $secondary; background: rgba(158,198,80,.06); }
   &.past { opacity: .75; }
 }
 
@@ -64,7 +67,7 @@ $border-radius: .6rem;
   border: 2px solid $secondary;
   border-radius: .8rem;
   padding: 1rem 1.2rem;
-  background: rgba(42,157,143,.06);
+  background: rgba(158,198,80,.06);
 }
 
 table.schedule td, table.schedule th { vertical-align: top; }
@@ -76,5 +79,21 @@ table.schedule td, table.schedule th { vertical-align: top; }
   border-radius: .6rem;
 }
 
-.semana-actual { background: rgba(42,157,143,.10) !important; }
+.semana-actual { background: rgba(158,198,80,.10) !important; }
 .dist-mes th, .dist-mes td { white-space: nowrap; }
+
+.navbar { border-bottom: 3px solid $hptu-green; box-shadow: 0 1px 6px rgba(0,0,0,.05); }
+.navbar-logo { max-height: 42px !important; }
+.navbar .navbar-title { font-weight: 600; color: $primary !important; border-left: 1px solid rgba(0,0,0,.15); padding-left: .7rem; }
+.home-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-bottom: 1.5rem;
+  @media (max-width: 860px) { grid-template-columns: 1fr; }
+  h2 { margin-top: 0; font-size: 1.25rem; border: none; }
+}
+.reading { margin: .35rem 0; }
+.reading .journal { font-size: .85rem; opacity: .7; }
+.cal-btn { margin-top: .5rem; }
+@media (max-width: 991.98px) {
+  .navbar .navbar-title { display: none; }
+  .navbar-logo { max-height: 34px !important; width: auto !important; max-width: none !important; }
+  .navbar-brand-container { flex-shrink: 0; max-width: none !important; }
+}

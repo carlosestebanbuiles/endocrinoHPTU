@@ -12,7 +12,7 @@ Durante el curso deben participar en el club de revistas, que se hace los jueves
 
 ::: {.callout-tip}
 ## Cómo prepararse
-Resuelvan la **guía JAMA** que corresponde al tipo de artículo. Aquí se publican con regularidad los enlaces para participar y los artículos que se van a discutir. **Esta actividad es calificable.**
+Resuelvan la **guía JAMA** que corresponde al tipo de artículo ([Users' Guides to the Medical Literature](http://www.jamaevidence.com/)). Aquí se publican con regularidad los enlaces para participar y los artículos que se van a discutir. **Esta actividad es calificable.**
 :::
 
 ## Programación
